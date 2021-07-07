@@ -16,7 +16,10 @@ const texts = [
     'Thycotic is the best thing to have ever happened to us',
     "Every day's sunny when you're using Thycotic",
     "Thank you Thycotic for making the world a safer place",
-    "Tell your mom about Thycotic"
+    "Tell your mom about Thycotic",
+    "Thycotic inventors are geniuses that should be thanked every single day",
+    "Thycotic makes our lives and company more safer",
+    "Could you even imagine your life without Thycotic now?"
 ];
 const getText = () => texts[Math.floor(Math.random()*texts.length)];
 
